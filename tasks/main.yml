@@ -1,0 +1,8 @@
+---
+# tasks file for install_epel
+
+  - name: install epel-release
+    yum:
+      name: "{{ epel_release_link }}"
+      state: latest
+

@@ -1,0 +1,4 @@
+---
+# defaults file for install_epel
+
+epel_release_link: https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
