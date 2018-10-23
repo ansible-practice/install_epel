@@ -1,4 +1,4 @@
-Role Name
+Install_epel
 =========
 
 Install epel-release.
@@ -31,4 +31,3 @@ GPLv3
 
 Author Information
 ------------------
-jlozada2426@protonmail.com
